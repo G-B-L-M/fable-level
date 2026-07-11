@@ -1,0 +1,3 @@
+# literal substrings, one per line; log lines containing any are excluded
+healthcheck ping
+keepalive tick

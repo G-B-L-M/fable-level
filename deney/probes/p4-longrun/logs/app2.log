@@ -1,0 +1,185 @@
+2026-07-01T08:54:44 INFO payment processed id=559
+2026-07-01T22:03:08 INFO disk usage 974%
+2026-07-02T02:13:23 WARN cache miss for key K667
+2026-07-05T04:41:56 WARN disk usage 977%
+2026-07-06T14:06:28 WARN payment processed id=783
+2026-07-02T10:03:58 INFO disk usage 655%
+2026-07-05T16:42:01 WARN token refreshed for svc-497
+2026-07-08T15:29:45 INFO retrying connection to shard-53
+2026-07-05T14:02:18 INFO queue depth 804
+2026-07-06T23:58:14 WARN payment processed id=325
+2026-07-04T03:13:44 INFO request served in 526ms
+2026-07-05T14:34:50 WARN cache miss for key K127
+2026-07-08T19:37:19 INFO cache miss for key K557
+2026-07-07T09:52:08 INFO session expired for u390
+2026-07-05T00:35:30 INFO request served in 78ms
+2026-07-08T06:32:13 ERROR sync complete batch 127
+2026-07-04T15:10:51 INFO payment processed id=375
+2026-07-07T23:31:17 INFO disk usage 2%
+2026-07-01T07:51:11 INFO sync complete batch 241
+2026-07-07T14:21:53 INFO queue depth 160
+2026-07-09T06:16:35 WARN disk usage 536%
+2026-07-05T08:34:57 INFO payment processed id=829
+2026-07-09T04:17:18 INFO cache miss for key K179
+2026-07-05T16:52:47 ERROR retrying connection to shard-989
+2026-07-03T17:39:49 WARN sync complete batch 385
+2026-07-09T10:08:18 INFO cache miss for key K477
+2026-07-06T14:24:46 ERROR request served in 385ms
+2026-07-08T14:54:28 INFO disk usage 295%
+2026-07-01T05:04:17 INFO user login ok
+2026-07-03T14:05:03 INFO payment processed id=141
+2026-07-08T14:23:24 INFO user login ok
+2026-07-07T18:10:41 INFO queue depth 406
+2026-07-02T14:10:05 INFO request served in 891ms
+2026-07-07T14:08:14 INFO disk usage 440%
+2026-07-02T03:54:57 INFO session expired for u337
+2026-07-09T14:02:04 INFO user login ok
+2026-07-01T14:37:24 INFO token refreshed for svc-261
+2026-07-09T19:24:55 WARN payment processed id=939
+2026-07-08T23:59:02 WARN request served in 339ms
+2026-07-02T02:02:55 ERROR disk usage 105%
+2026-07-07T19:03:46 INFO token refreshed for svc-770
+2026-07-02T22:18:29 INFO session expired for u438
+2026-07-09T13:57:37 INFO sync complete batch 794
+2026-07-05T07:51:37 INFO sync complete batch 56
+2026-07-09T05:26:54 INFO request served in 842ms
+2026-07-04T06:54:09 INFO token refreshed for svc-343
+2026-07-08T04:44:20 INFO disk usage 24%
+2026-07-09T14:13:17 INFO sync complete batch 141
+2026-07-09T14:33:38 INFO token refreshed for svc-452
+2026-07-03T08:49:31 INFO session expired for u676
+2026-07-05T18:05:18 ERROR disk usage 489%
+2026-07-09T17:14:42 INFO cache miss for key K415
+2026-07-06T13:35:06 WARN sync complete batch 662
+2026-07-02T13:50:44 INFO queue depth 591
+2026-07-03T14:42:23 INFO request served in 783ms
+2026-07-02T10:44:27 INFO sync complete batch 827
+2026-07-09T14:07:14 INFO queue depth 195
+2026-07-06T16:35:13 WARN cache miss for key K742
+2026-07-01T20:29:43 INFO token refreshed for svc-371
+2026-07-03T14:52:42 WARN payment processed id=979
+2026-07-03T14:08:14 ERROR payment processed id=850
+2026-07-01T14:26:54 INFO session expired for u227
+2026-07-07T14:13:23 INFO retrying connection to shard-21
+2026-07-03T22:42:29 INFO token refreshed for svc-150
+2026-07-03T15:15:17 INFO request served in 137ms
+2026-07-04T14:00:54 INFO retrying connection to shard-288
+2026-07-03T09:59:58 WARN sync complete batch 762
+2026-07-03T21:01:19 WARN payment processed id=563
+2026-07-03T14:07:10 INFO cache miss for key K213
+2026-07-05T12:42:17 WARN retrying connection to shard-813
+2026-07-06T00:41:25 INFO disk usage 950%
+2026-07-05T22:27:11 WARN request served in 921ms
+2026-07-09T10:21:20 INFO user login ok
+2026-07-03T12:05:00 INFO session expired for u689
+2026-07-03T03:21:00 INFO user login ok
+2026-07-07T14:52:47 INFO retrying connection to shard-327
+2026-07-08T16:55:32 INFO keepalive tick ok
+2026-07-04T19:03:28 WARN sync complete batch 199
+2026-07-07T14:28:06 ERROR user login ok
+2026-07-03T14:04:11 WARN queue depth 797
+2026-07-09T16:21:14 INFO request served in 183ms
+2026-07-02T13:18:46 INFO session expired for u156
+2026-07-03T14:40:02 INFO payment processed id=455
+2026-07-09T10:32:43 INFO sync complete batch 453
+2026-07-04T21:56:18 WARN cache miss for key K365
+2026-07-08T03:34:49 INFO keepalive tick ok
+2026-07-07T14:15:12 INFO retrying connection to shard-113
+2026-07-08T02:53:17 INFO token refreshed for svc-822
+2026-07-07T20:32:23 ERROR sync complete batch 420
+2026-07-04T14:31:41 WARN queue depth 115
+2026-07-04T18:49:31 INFO cache miss for key K898
+2026-07-05T09:13:30 INFO cache miss for key K671
+2026-07-05T23:49:58 INFO sync complete batch 616
+2026-07-05T02:49:00 INFO session expired for u764
+2026-07-05T04:39:50 INFO queue depth 597
+2026-07-06T21:55:53 INFO user login ok
+2026-07-05T03:52:18 INFO session expired for u439
+2026-07-04T18:47:00 INFO sync complete batch 162
+2026-07-01T14:13:56 INFO session expired for u230
+2026-07-04T07:50:09 INFO user login ok
+2026-07-09T13:35:50 INFO retrying connection to shard-917
+2026-07-03T01:28:41 INFO sync complete batch 675
+2026-07-07T04:34:26 INFO retrying connection to shard-337
+2026-07-04T14:55:06 WARN retrying connection to shard-71
+2026-07-09T14:47:53 INFO disk usage 376%
+2026-07-06T03:32:49 INFO cache miss for key K182
+2026-07-04T08:38:15 INFO cache miss for key K911
+2026-07-03T19:22:06 INFO payment processed id=498
+2026-07-06T01:52:07 INFO user login ok
+2026-07-06T07:16:10 INFO disk usage 456%
+2026-07-06T17:20:50 WARN session expired for u424
+2026-07-03T22:29:05 INFO payment processed id=726
+2026-07-06T16:42:23 ERROR sync complete batch 424
+2026-07-07T05:48:55 INFO user login ok
+2026-07-07T00:21:28 ERROR disk usage 607%
+2026-07-02T14:58:33 INFO payment processed id=703
+2026-07-03T09:53:44 INFO request served in 765ms
+2026-07-01T20:34:57 INFO payment processed id=538
+2026-07-07T04:32:07 WARN queue depth 642
+2026-07-05T14:46:47 INFO disk usage 175%
+2026-07-09T01:40:10 INFO session expired for u744
+2026-07-07T21:05:20 INFO session expired for u829
+2026-07-03T18:09:44 INFO retrying connection to shard-865
+2026-07-02T23:45:55 INFO cache miss for key K873
+2026-07-06T21:10:25 INFO request served in 351ms
+2026-07-09T04:12:27 ERROR token refreshed for svc-323
+2026-07-09T09:43:17 INFO cache miss for key K105
+2026-07-08T14:16:01 INFO retrying connection to shard-305
+2026-07-05T23:59:49 WARN queue depth 641
+2026-07-04T06:29:34 ERROR payment processed id=511
+2026-07-07T11:01:07 INFO healthcheck ping ok
+2026-07-08T14:54:02 INFO user login ok
+2026-07-07T14:34:11 INFO session expired for u687
+2026-07-07T13:43:31 WARN token refreshed for svc-631
+2026-07-09T22:37:36 WARN retrying connection to shard-930
+2026-07-01T02:58:28 INFO sync complete batch 982
+2026-07-03T14:53:30 ERROR queue depth 472
+2026-07-05T06:33:00 ERROR payment processed id=155
+2026-07-08T14:25:06 INFO cache miss for key K216
+2026-07-09T04:22:47 INFO sync complete batch 631
+2026-07-07T21:06:57 INFO token refreshed for svc-473
+2026-07-01T14:45:34 WARN queue depth 208
+2026-07-09T10:02:00 INFO user login ok
+2026-07-08T13:57:19 WARN session expired for u658
+2026-07-01T19:02:01 INFO healthcheck ping ok
+2026-07-08T04:33:11 INFO disk usage 745%
+2026-07-05T08:09:09 INFO session expired for u607
+2026-07-06T14:31:08 WARN user login ok
+2026-07-03T14:10:56 ERROR retrying connection to shard-367
+2026-07-06T14:15:28 INFO user login ok
+2026-07-04T06:35:07 INFO request served in 786ms
+2026-07-09T13:14:01 WARN session expired for u651
+2026-07-01T00:47:06 INFO keepalive tick ok
+2026-07-02T02:52:06 ERROR session expired for u918
+2026-07-03T14:56:30 INFO sync complete batch 219
+2026-07-06T14:42:39 ERROR request served in 259ms
+2026-07-09T16:41:13 INFO disk usage 337%
+2026-07-03T03:56:53 INFO payment processed id=132
+2026-07-09T11:08:12 INFO request served in 279ms
+2026-07-03T19:50:43 INFO retrying connection to shard-510
+2026-07-01T02:22:22 INFO cache miss for key K764
+2026-07-09T06:02:57 INFO sync complete batch 571
+2026-07-04T23:09:02 INFO disk usage 448%
+2026-07-05T14:19:29 INFO token refreshed for svc-28
+2026-07-07T08:17:20 INFO queue depth 95
+2026-07-04T18:12:52 WARN disk usage 549%
+2026-07-01T22:15:02 WARN request served in 832ms
+2026-07-07T13:32:08 ERROR user login ok
+2026-07-01T14:17:47 INFO session expired for u767
+2026-07-09T01:59:35 WARN cache miss for key K455
+2026-07-07T12:58:15 INFO disk usage 288%
+2026-07-04T21:58:55 INFO retrying connection to shard-743
+2026-07-06T06:36:21 WARN sync complete batch 192
+2026-07-02T02:59:26 INFO sync complete batch 58
+2026-07-03T14:07:19 INFO session expired for u210
+2026-07-01T14:45:29 WARN payment processed id=223
+2026-07-01T16:34:22 INFO queue depth 723
+2026-07-07T15:10:27 WARN token refreshed for svc-343
+2026-07-08T21:32:40 INFO session expired for u249
+2026-07-06T20:59:33 WARN token refreshed for svc-920
+2026-07-06T13:36:06 INFO payment processed id=423
+2026-07-07T06:07:03 INFO request served in 828ms
+2026-07-06T17:43:48 WARN request served in 552ms
+2026-07-04T18:36:46 INFO request served in 486ms
+2026-07-05T09:41:44 INFO disk usage 59%

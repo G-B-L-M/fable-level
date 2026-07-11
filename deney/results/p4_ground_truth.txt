@@ -1,0 +1,37 @@
+GROUND TRUTH P4
+{
+ "app1.log": {
+  "INFO": 145,
+  "WARN": 33,
+  "ERROR": 22
+ },
+ "app2.log": {
+  "INFO": 123,
+  "WARN": 39,
+  "ERROR": 18
+ },
+ "empty.log": {
+  "INFO": 0,
+  "WARN": 0,
+  "ERROR": 0
+ },
+ "legacy.log": {
+  "INFO": 90,
+  "WARN": 24,
+  "ERROR": 6
+ },
+ "web.log": {
+  "INFO": 146,
+  "WARN": 43,
+  "ERROR": 31
+ },
+ "worker.log": {
+  "INFO": 96,
+  "WARN": 37,
+  "ERROR": 17
+ }
+}
+grand totals: {'INFO': 600, 'ERROR': 94, 'WARN': 176}
+excluded_total: 26
+anomalies (6): ['legacy.log:7', 'legacy.log:15', 'legacy.log:72', 'legacy.log:77', 'legacy.log:80', 'legacy.log:115']
+busiest hours top3: [(14, 205), (2, 41), (6, 38)]

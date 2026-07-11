@@ -1,0 +1,8 @@
+file: <project>/deney/probes/p2-data/sales.csv
+data lines written (incl. traps): 31
+GROUND TRUTH (canonical 28 txns, dupe once, truncated excluded):
+  East: 8157.60
+  North: 9405.53
+  South: 8872.90
+  West: 7418.91
+  GRAND TOTAL: 33854.94
