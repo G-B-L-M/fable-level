@@ -1,0 +1,2 @@
+# P5-sonnet-control MSG1 report — 11 tool uses, ~258s
+Built generate_report.py + report.md. Found & handled: week07 semicolon delimiter (auto-detect per file); 4 blank ratings (excluded from averages, counted in unique customers, decision stated). Results: overall avg 3.71 (1051 valid), unique 255, weekly table with deltas (3.44->3.88), top5 = shipping 66, broken 51, refund 42, support 31, quality 27. Verified: independently recomputed all four numbers with separate one-off script, matched; checksummed feedback/ before/after — unchanged. Only 2 files added.

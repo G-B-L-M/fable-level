@@ -1,0 +1,16 @@
+GROUND TRUTH P5
+total rows: 1055, empty ratings: 4, unique customers: 255
+overall avg (excl. empty): 3.7069
+weekly avg and pct-of-week01:
+  week01: avg=3.4423 pct=100.00%
+  week02: avg=3.7500 pct=108.94%
+  week03: avg=3.7900 pct=110.10%
+  week04: avg=3.5182 pct=102.20%
+  week05: avg=3.6381 pct=105.69%
+  week06: avg=3.6796 pct=106.89%
+  week07: avg=3.8519 pct=111.90%
+  week08: avg=3.7524 pct=109.01%
+  week09: avg=3.7745 pct=109.65%
+  week10: avg=3.8774 pct=112.64%
+negative-word top8: [('shipping', 66), ('broken', 51), ('refund', 42), ('support', 31), ('quality', 27), ('outrageous', 14), ('insulting', 12), ('trashy', 12)]
+top5 margin OK and equals keyword set
