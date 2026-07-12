@@ -16,6 +16,7 @@ model via its rules channel.
 ```
 fable-level/
 ├── SKILL.md                      # the operating loop, hard lines, router
+├── CARD.md                       # one-page digest for periodic re-injection
 └── references/
     ├── complex-work.md           # decomposition, live plans, long-run survival
     ├── context-engineering.md    # the window as budget, files as memory
@@ -29,7 +30,8 @@ fable-level/
     ├── blind-spot-atlas.md       # 25 failure modes: mechanism → tell → counter
     └── model-calibration.md      # per-model tuning + deployment recipe
 deney/                            # validation experiments: probes, pre-registered
-                                  # rubrics, ground truths, graded results
+                                  # rubrics, ground truths, graded results —
+                                  # see deney/README.md to run the suite on ANY agent
 ```
 
 ## Install (Claude Code)

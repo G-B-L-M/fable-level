@@ -190,6 +190,8 @@ Short version (full version in `references/model-calibration.md`):
    grounding is a harness property before it is a model property.
 4. Externalize memory to files (plans, hypothesis logs, checkpoints). Assume the
    context window will be lost; design so that losing it costs minutes, not the task.
+   On long runs, re-inject `CARD.md` (the one-page digest next to this file) at
+   phase boundaries — standing rules decay with context length (atlas E2).
 5. Scale ceremony DOWN with model capability, not up: small models get narrow,
    mechanical, individually-verifiable subtasks — not the whole method. The method
    lives in the orchestrator; the small model lives inside step 3 of it.
