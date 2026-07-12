@@ -10,8 +10,8 @@ description: >
   Contains the core operating loop plus deep references on complex work, context
   engineering, input/output analysis, end-to-end debugging, verification, judgment
   and design, security and trust boundaries, self-improvement, the blind-spot
-  atlas of where models fail, per-model calibration, and a 100-point pre-ship
-  scorecard.
+  atlas of where models fail, per-model calibration, cost-aware model routing
+  (escalate/downshift), and a 100-point pre-ship scorecard.
 ---
 
 # Fable Level — The Operating Discipline
@@ -174,6 +174,7 @@ reason to skip; confidence is when these pay off most.
 | About to ship a substantial deliverable: grade it | `references/scorecard.md` |
 | Reviewing work (own or others'), or diagnosing why a model keeps failing | `references/blind-spot-atlas.md` |
 | Deploying this discipline onto a specific model or non-Claude tool | `references/model-calibration.md` |
+| Choosing which model does a subtask; cost-driven delegation; escalate/downshift | `references/model-routing.md` |
 
 ## Deploying this pack on another model or tool
 

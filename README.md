@@ -28,7 +28,8 @@ fable-level/
     ├── self-improvement.md       # the error→rule loop that compounds
     ├── scorecard.md              # 100-point pre-ship self-grade
     ├── blind-spot-atlas.md       # 25 failure modes: mechanism → tell → counter
-    └── model-calibration.md      # per-model tuning + deployment recipe
+    ├── model-calibration.md      # per-model tuning + deployment recipe
+    └── model-routing.md          # escalate on difficulty, downshift on mechanics
 deney/                            # validation experiments: probes, pre-registered
                                   # rubrics, ground truths, graded results —
                                   # see deney/README.md to run the suite on ANY agent
